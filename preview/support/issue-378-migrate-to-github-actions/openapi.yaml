@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Data Repository Service FOOBAR
+  title: Data Repository Service
   version: 1.2.0
   x-logo:
     url: >-
